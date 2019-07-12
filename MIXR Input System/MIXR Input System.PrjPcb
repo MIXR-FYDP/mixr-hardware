@@ -166,6 +166,10 @@ Variation1=Designator=C35|UniqueId=\EAIMTUHC|Kind=1|AlternatePart=
 Variation2=Designator=C36|UniqueId=\ZNPXWFJM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MIXR Input System\Design Rule Check - MIXR Input System.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=DRAWN BY
 Value=Mena Labib
