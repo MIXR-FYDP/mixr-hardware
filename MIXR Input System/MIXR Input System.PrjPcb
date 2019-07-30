@@ -167,7 +167,11 @@ Variation2=Designator=C36|UniqueId=\ZNPXWFJM|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=DRAWN BY
+Name=ProjectRevision
+Value=1.1
+
+[Parameter2]
+Name=ProjectAuthor
 Value=Mena Labib
 
 [Configuration1]
