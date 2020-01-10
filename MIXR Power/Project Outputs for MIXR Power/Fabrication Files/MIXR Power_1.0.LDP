@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Taiping\Documents\FYDP\mixr-hardware\MIXR Regulators\MIXR Power.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=mixr power_1.0-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=mixr power_1.0-slotholes-plated.txt|DrillLayers=gtl,gbl
