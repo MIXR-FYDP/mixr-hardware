@@ -354,12 +354,12 @@ Variation2=Designator=C36|UniqueId=\ZNPXWFJM|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectAuthor
-Value=Mena Labib
+Name=ProjectRevision
+Value=1.0
 
 [Parameter2]
-Name=ProjectRevision
-Value=1.1
+Name=ProjectAuthor
+Value=Taiping Li
 
 [Configuration1]
 Name=Sources
