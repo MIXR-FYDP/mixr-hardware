@@ -72,23 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=TDJXRXCT
 
 [Document3]
-DocumentPath=MIXR Input System.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AFWHJCYT
-
-[Document4]
 DocumentPath=Elecrow.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=MIXR Input - Board to Board Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSEZVIQG
 
-[Document6]
+[Document5]
 DocumentPath=MIXR Input - Instrument Inputs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTIKNJLO
 
-[Document7]
+[Document6]
 DocumentPath=MIXR Input - Instrument 0 Filtering & ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWSNZGSG
 
-[Document8]
+[Document7]
 DocumentPath=MIXR Input - Instrument 1 Filtering & ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SKXFNIEO
 
-[Document9]
+[Document8]
 DocumentPath=MIXR Input - ADC Power & Communication.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWNEHPC
 
-[Document10]
+[Document9]
 DocumentPath=MIXR Processing - ESP32.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVLNJFWA
 
-[Document11]
+[Document10]
 DocumentPath=MIXR Processing - ESP32 Peripherals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GBAWRAPP
 
-[Document12]
+[Document11]
 DocumentPath=MIXR Processing - STM32 DSP Microcontroller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RQDVRMEY
 
-[Document13]
+[Document12]
 DocumentPath=MIXR Processing - STM32 DSP Misc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QMOIJMXD
 
-[Document14]
+[Document13]
 DocumentPath=MIXR Processing - STM32 USB-UART Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTVPRIVE
 
-[Document15]
+[Document14]
 DocumentPath=MIXR Processing - SD Card.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LEUAGXVK
 
-[Document16]
+[Document15]
 DocumentPath=MIXR Processing - USB Hub.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CQAELSCH
 
-[Document17]
+[Document16]
 DocumentPath=Top Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UKBFXANU
 
-[Document18]
+[Document17]
 DocumentPath=MIXR Interface - Buttons.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -342,6 +325,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXVZZJSY
+
+[Document18]
+DocumentPath=MIXR Input and Processing.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=MIXR Input and Processing.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UYRDSECY
 
 [ProjectVariant1]
 UniqueID=EBC7595E-E067-4FC4-9E9B-8908F81CDED4
@@ -1319,14 +1336,126 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
-ReplaceSubparts=0
+ReplaceSubparts=1
 MatchParameter1=Comment
-MatchStrictly1=1
+MatchStrictly1=0
 MatchParameter2=Library Reference
-MatchStrictly2=1
+MatchStrictly2=0
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
+UniqueIDPath0=
+DocumentName0=MIXR Input - Instrument 0 Filtering & ADC.SchDoc
+IsEnabled0=1
+SelectionScope0=All
+Order0=3
+IndexEnabled0=0
+IndexStartValue0=1
+Suffix0=
+UniqueIDPath1=
+DocumentName1=MIXR Processing - SD Card.SchDoc
+IsEnabled1=1
+SelectionScope1=All
+Order1=9
+IndexEnabled1=0
+IndexStartValue1=1
+Suffix1=
+UniqueIDPath2=
+DocumentName2=Top Sheet.SchDoc
+IsEnabled2=1
+SelectionScope2=All
+Order2=14
+IndexEnabled2=0
+IndexStartValue2=1
+Suffix2=
+UniqueIDPath3=
+DocumentName3=MIXR Processing - STM32 USB-UART Converter.SchDoc
+IsEnabled3=1
+SelectionScope3=All
+Order3=12
+IndexEnabled3=0
+IndexStartValue3=1
+Suffix3=
+UniqueIDPath4=
+DocumentName4=MIXR Interface - Buttons.SchDoc
+IsEnabled4=1
+SelectionScope4=All
+Order4=6
+IndexEnabled4=0
+IndexStartValue4=1
+Suffix4=
+UniqueIDPath5=
+DocumentName5=MIXR Processing - ESP32.SchDoc
+IsEnabled5=1
+SelectionScope5=All
+Order5=8
+IndexEnabled5=0
+IndexStartValue5=1
+Suffix5=
+UniqueIDPath6=
+DocumentName6=MIXR Processing - STM32 DSP Microcontroller.SchDoc
+IsEnabled6=1
+SelectionScope6=All
+Order6=10
+IndexEnabled6=0
+IndexStartValue6=1
+Suffix6=
+UniqueIDPath7=
+DocumentName7=MIXR Input - ADC Power & Communication.SchDoc
+IsEnabled7=1
+SelectionScope7=All
+Order7=1
+IndexEnabled7=0
+IndexStartValue7=1
+Suffix7=
+UniqueIDPath8=
+DocumentName8=MIXR Processing - STM32 DSP Misc.SchDoc
+IsEnabled8=1
+SelectionScope8=All
+Order8=11
+IndexEnabled8=0
+IndexStartValue8=1
+Suffix8=
+UniqueIDPath9=
+DocumentName9=MIXR Input - Board to Board Connectors.SchDoc
+IsEnabled9=1
+SelectionScope9=All
+Order9=2
+IndexEnabled9=0
+IndexStartValue9=1
+Suffix9=
+UniqueIDPath10=
+DocumentName10=MIXR Processing - ESP32 Peripherals.SchDoc
+IsEnabled10=1
+SelectionScope10=All
+Order10=7
+IndexEnabled10=0
+IndexStartValue10=1
+Suffix10=
+UniqueIDPath11=
+DocumentName11=MIXR Input - Instrument 1 Filtering & ADC.SchDoc
+IsEnabled11=1
+SelectionScope11=All
+Order11=4
+IndexEnabled11=0
+IndexStartValue11=1
+Suffix11=
+UniqueIDPath12=
+DocumentName12=MIXR Processing - USB Hub.SchDoc
+IsEnabled12=1
+SelectionScope12=All
+Order12=13
+IndexEnabled12=0
+IndexStartValue12=1
+Suffix12=
+UniqueIDPath13=
+DocumentName13=MIXR Input - Instrument Inputs.SchDoc
+IsEnabled13=1
+SelectionScope13=All
+Order13=5
+IndexEnabled13=0
+IndexStartValue13=1
+Suffix13=
 
 [PrjClassGen]
 CompClassManualEnabled=0
