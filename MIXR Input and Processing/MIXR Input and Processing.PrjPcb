@@ -354,12 +354,12 @@ Variation2=Designator=C36|UniqueId=\ZNPXWFJM|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectRevision
-Value=1.0
-
-[Parameter2]
 Name=ProjectAuthor
 Value=Taiping Li
+
+[Parameter2]
+Name=ProjectRevision
+Value=1.0
 
 [Configuration1]
 Name=Sources
