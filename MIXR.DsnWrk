@@ -1,10 +1,10 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=MIXR Power\MIXR Power.PrjPcb
-[Project2]
 ProjectPath=MIXR Input and Processing\MIXR Input and Processing.PrjPcb
-[Project3]
+[Project2]
 ProjectPath=..\..\..\..\..\UltraLibrarian\Library\Exported\Altium\2020-01-16_16-27-46\UL_Import.PrjScr
-[Project4]
+[Project3]
 ProjectPath=..\..\..\..\..\UltraLibrarian\Library\Exported\Altium\2020-01-16_16-27-46\2020-01-16_16-27-46.LibPkg
+[Project4]
+ProjectPath=MIXR Power\MIXR Power.PrjPcb
