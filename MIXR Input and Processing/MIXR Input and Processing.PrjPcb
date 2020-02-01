@@ -348,9 +348,8 @@ UniqueID=EBC7595E-E067-4FC4-9E9B-8908F81CDED4
 Description=Standard
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
-Variation1=Designator=C35|UniqueId=\EAIMTUHC|Kind=1|AlternatePart= 
-Variation2=Designator=C36|UniqueId=\ZNPXWFJM|Kind=1|AlternatePart= 
+VariationCount=1
+Variation1=Designator=P8|UniqueId=\FROEOLRV|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
