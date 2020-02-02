@@ -6,3 +6,5 @@ ProjectPath=MIXR\MIXR.PrjMbd
 ProjectPath=MIXR Input and Processing\MIXR Input and Processing.PrjPcb
 [Project3]
 ProjectPath=MIXR Power\MIXR Power.PrjPcb
+[Project4]
+ProjectPath=MIXR User Interface\MIXR User Interface.PrjPcb
