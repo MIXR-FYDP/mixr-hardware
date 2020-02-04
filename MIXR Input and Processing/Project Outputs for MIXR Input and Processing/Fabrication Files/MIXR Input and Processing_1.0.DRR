@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MIXR Input and Processing.PcbDoc   2020-02-03  8:41:29 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : MIXR Input and Processing_1.0-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : MIXR Input and Processing_1.0-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             358       PTH        0.00inch (0.00mm)
+T2      16mil (0.4mm)                                             Round             16        PTH        0.00inch (0.00mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T4      33mil (0.85mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T5      39mil (1mm)             +/-8mil (0.2mm)                   Round             37        PTH        0.00inch (0.00mm)
+T6      47mil (1.2mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T7      63mil (1.6mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T8      150mil (3.8mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              445
+
+Total Processing Time (hh:mm:ss) : 00:00:01

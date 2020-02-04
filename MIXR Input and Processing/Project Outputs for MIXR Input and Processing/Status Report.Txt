@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Standard] of Project [MIXR Input and Processing.PrjPcb]
+   Generated File[MIXR Input and Processing_1.0.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:42:36 PM On 2020-02-03
