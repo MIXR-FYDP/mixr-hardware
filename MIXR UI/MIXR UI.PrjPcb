@@ -38,23 +38,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=MIXR UI.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EVBVKFSV
-
-[Document2]
 DocumentPath=..\altium-lib\Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +54,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMDFJJIM
 
-[Document3]
+[Document2]
 DocumentPath=..\altium-lib\Schematic Diagrams.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,13 +71,81 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDJXRXCT
 
-[Parameter1]
-Name=ProjectRevision
-Value=1.0
+[Document3]
+DocumentPath=MIXR UI - Buttons.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BXVZZJSY
 
-[Parameter2]
+[Document4]
+DocumentPath=MIXR UI.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EVBVKFSV
+
+[Document5]
+DocumentPath=C:\Users\Public\Documents\Altium\AD19\Library\mTouch\Microchip mTouch.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=C:\Users\Public\Documents\Altium\AD19\Library\mTouch\MIXR UI.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AFXBKFND
+
+[Parameter1]
 Name=ProjectAuthor
 Value=Mena Labib
+
+[Parameter2]
+Name=ProjectRevision
+Value=1.0
 
 [Configuration1]
 Name=Sources
