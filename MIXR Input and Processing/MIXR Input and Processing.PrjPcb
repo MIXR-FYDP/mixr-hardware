@@ -293,6 +293,23 @@ GenerateClassCluster=0
 DocumentUniqueId=CQAELSCH
 
 [Document16]
+DocumentPath=MIXR Processing - QSPI NOR Flash.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=14
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SKMHIZUQ
+
+[Document17]
 DocumentPath=Top Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UKBFXANU
 
-[Document17]
+[Document18]
 DocumentPath=MIXR Input and Processing.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=MIXR Input and Processing.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -348,10 +365,14 @@ UniqueID=EBC7595E-E067-4FC4-9E9B-8908F81CDED4
 Description=Standard
 AllowFabrication=0
 ParameterCount=0
-VariationCount=3
+VariationCount=7
 Variation1=Designator=P8|UniqueId=\FROEOLRV|Kind=1|AlternatePart= 
-Variation2=Designator=R?|UniqueId=\TNHNVCRE|Kind=1|AlternatePart= 
-Variation3=Designator=R?|UniqueId=\XIDVXOKP|Kind=1|AlternatePart= 
+Variation2=Designator=R63|UniqueId=\TNHNVCRE|Kind=1|AlternatePart= 
+Variation3=Designator=R64|UniqueId=\XIDVXOKP|Kind=1|AlternatePart= 
+Variation4=Designator=C91|UniqueId=\DGBPMMUE|Kind=1|AlternatePart= 
+Variation5=Designator=U13|UniqueId=\ONTHLNII|Kind=1|AlternatePart= 
+Variation6=Designator=R74|UniqueId=\GYMTOVPY|Kind=1|AlternatePart= 
+Variation7=Designator=R73|UniqueId=\RLUNVIQM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -620,7 +641,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother HL-L2360D series 2
+TargetPrinter=Brother HL-L2360D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
