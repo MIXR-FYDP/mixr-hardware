@@ -1,10 +1,10 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=MIXR Power\MIXR Power.PrjPcb
-[Project2]
 ProjectPath=MIXR\MIXR.PrjMbd
-[Project3]
-ProjectPath=MIXR User Interface\MIXR User Interface.PrjPcb
-[Project4]
+[Project2]
 ProjectPath=MIXR Input and Processing\MIXR Input and Processing.PrjPcb
+[Project3]
+ProjectPath=MIXR Power\MIXR Power.PrjPcb
+[Project4]
+ProjectPath=MIXR User Interface\MIXR User Interface.PrjPcb
