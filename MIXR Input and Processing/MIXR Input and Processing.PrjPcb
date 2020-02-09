@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for MIXR Input and Processing
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -375,14 +375,14 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UYRDSECY
 
 [ProjectVariant1]
 UniqueID=EBC7595E-E067-4FC4-9E9B-8908F81CDED4
 Description=Standard
 AllowFabrication=0
 ParameterCount=0
-VariationCount=7
+VariationCount=9
 Variation1=Designator=P8|UniqueId=\FROEOLRV|Kind=1|AlternatePart= 
 Variation2=Designator=R63|UniqueId=\TNHNVCRE|Kind=1|AlternatePart= 
 Variation3=Designator=R64|UniqueId=\XIDVXOKP|Kind=1|AlternatePart= 
@@ -390,6 +390,8 @@ Variation4=Designator=C91|UniqueId=\DGBPMMUE|Kind=1|AlternatePart=
 Variation5=Designator=U13|UniqueId=\ONTHLNII|Kind=1|AlternatePart= 
 Variation6=Designator=R74|UniqueId=\GYMTOVPY|Kind=1|AlternatePart= 
 Variation7=Designator=R73|UniqueId=\RLUNVIQM|Kind=1|AlternatePart= 
+Variation8=Designator=P9|UniqueId=\JPJQLSJI|Kind=1|AlternatePart= 
+Variation9=Designator=P10|UniqueId=\WOJHZDSR|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -517,14 +519,18 @@ DocumentPath=Project Outputs for MIXR Input and Processing\Fabrication Files\MIX
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for MIXR Input and Processing\Fabrication Files\MIXR Input and Processing_1.0.RUL
+DocumentPath=Project Outputs for MIXR Input and Processing\Fabrication Files\MIXR Input and Processing_1.0.REP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for MIXR Input and Processing\MIXR Input and Processing_1.0.step
+DocumentPath=Project Outputs for MIXR Input and Processing\Fabrication Files\MIXR Input and Processing_1.0.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument34]
+DocumentPath=Project Outputs for MIXR Input and Processing\MIXR Input and Processing_1.0.step
+DItemRevisionGUID=
+
+[GeneratedDocument35]
 DocumentPath=Project Outputs for MIXR Input and Processing\MIXR Input and Processing_1.0.xlsx
 DItemRevisionGUID=
 
@@ -551,7 +557,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for MIXR Input and Processing
 
 [OutputGroup1]
 Name=Netlist Outputs
