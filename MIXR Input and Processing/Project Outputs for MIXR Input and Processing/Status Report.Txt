@@ -1,13 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [MIXR Input and Processing.PcbDoc]
-   Generated File[MIXR Input and Processing_1.0-RoundHoles-Plated.TXT]
-   Generated File[MIXR Input and Processing_1.0-SlotHoles-Plated.TXT]
-   Generated File[MIXR Input and Processing_1.0.LDP]
-   Generated File[MIXR Input and Processing_1.0.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Standard] of Project [MIXR Input and Processing.PrjPcb]
+   Generated File[MIXR Input and Processing_1.0.xlsx]
 
 
-Files Generated   : 4
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 7:24:15 PM On 2020-02-08
+Finished Output Generation At 8:54:25 PM On 2020-02-09
