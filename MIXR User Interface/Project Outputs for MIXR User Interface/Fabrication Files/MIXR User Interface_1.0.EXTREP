@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: MIXR User Interface_1.0.GBR   2020-02-08  10:12:51 PM
+Gerber File Extension Report For: MIXR User Interface_1.0.GBR   2020-02-09  9:08:43 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -15,7 +15,6 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
-.GM3                Mechanical 3                            
 .GM5                Mechanical 5                            
 .GM7                Mechanical 7                            
 .GM9                Top Assembly                            
