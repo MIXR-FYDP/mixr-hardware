@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=MIXR.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\MIXR Input and Processing\MIXR Input and Processing.PrjPcb
+Record=SubProject|SourceDocument=MIXR.MbsDoc|ProjectPath=..\MIXR Input and Processing\MIXR Input and Processing.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MIXR.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\MIXR Power\MIXR Power.PrjPcb
+Record=SubProject|SourceDocument=MIXR.MbsDoc|ProjectPath=..\MIXR Power\MIXR Power.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MIXR.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\MIXR User Interface\MIXR User Interface.PrjPcb
+Record=SubProject|SourceDocument=MIXR.MbsDoc|ProjectPath=..\MIXR User Interface\MIXR User Interface.PrjPcb
