@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: MIXR Input and Processing.PcbDoc   2020-02-08  7:24:14 PM
+NCDrill File Report For: MIXR Input and Processing.PcbDoc   2020-02-09  9:00:37 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII Plated SlotHoles File : MIXR Input and Processing_1.0-SlotHoles-Plated.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             376       PTH        0.00inch (0.00mm)
+T1      12mil (0.3mm)                                             Round             374       PTH        0.00inch (0.00mm)
 T2      16mil (0.4mm)                                             Round             16        PTH        0.00inch (0.00mm)
 T3      24mil (0.6mm)                                             Slot              4         PTH        0.00inch (0.00mm)
 T4      33mil (0.85mm)                                            Round             4         PTH        0.00inch (0.00mm)
@@ -17,6 +17,6 @@ T6      47mil (1.2mm)                                             Round         
 T7      63mil (1.6mm)                                             Round             12        PTH        0.00inch (0.00mm)
 T8      150mil (3.8mm)                                            Round             4         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              463
+Totals                                                                              461
 
 Total Processing Time (hh:mm:ss) : 00:00:01

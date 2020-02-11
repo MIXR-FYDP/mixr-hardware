@@ -519,18 +519,14 @@ DocumentPath=Project Outputs for MIXR Input and Processing\Fabrication Files\MIX
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for MIXR Input and Processing\Fabrication Files\MIXR Input and Processing_1.0.REP
-DItemRevisionGUID=
-
-[GeneratedDocument33]
 DocumentPath=Project Outputs for MIXR Input and Processing\Fabrication Files\MIXR Input and Processing_1.0.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for MIXR Input and Processing\MIXR Input and Processing_1.0.step
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for MIXR Input and Processing\MIXR Input and Processing_1.0.xlsx
 DItemRevisionGUID=
 
@@ -539,12 +535,12 @@ Name=PartNumber
 Value=MIXR-002-01
 
 [Parameter2]
-Name=ProjectRevision
-Value=1.0
-
-[Parameter3]
 Name=ProjectAuthor
 Value=Taiping Li
+
+[Parameter3]
+Name=ProjectRevision
+Value=1.0
 
 [Configuration1]
 Name=Sources
