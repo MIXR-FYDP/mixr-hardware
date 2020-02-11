@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [MIXR User Interface.PrjPcb]
+   Generated File[MIXR User Interface_1.0.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:09:28 PM On 2020-02-09
